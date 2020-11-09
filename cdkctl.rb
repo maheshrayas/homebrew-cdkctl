@@ -1,4 +1,4 @@
-class cdkctl < Formula
+class Cdkctl < Formula
     desc "A command line tool to deploy cdk stacks concurrently"
     homepage "https://github.com/maheshrayas/cdkctl"
     url "https://github.com/maheshrayas/cdkctl/releases/download/v.0.1.0/darwin-cdkctl.tar.gz"
